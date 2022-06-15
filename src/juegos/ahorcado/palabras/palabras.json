@@ -1,0 +1,13 @@
+[
+    {
+        "tema" : "Animales",
+        "palabras": ["LEON", "GATO","PERRO"]
+    },
+    { 
+        "tema" : "Flores",
+        "palabras": ["rosa","zinnia","lila"]
+    },
+    {   "tema" : "Países",
+        "palabras": ["rosa","zinnia","lila"]
+    }
+]

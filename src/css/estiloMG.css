@@ -1,0 +1,25 @@
+body {
+  background-color: #B283BD;
+  font-family: "Times New Roman", Times, serif;
+}
+div:focus {
+  outline: none !important;
+}
+.foto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+.nav {
+  font-size: 180%;
+}
+link {
+  color: black;
+}

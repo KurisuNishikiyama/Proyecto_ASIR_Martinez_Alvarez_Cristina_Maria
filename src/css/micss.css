@@ -1,0 +1,94 @@
+body {
+    font-family: verdana, sans-serif;
+    font-size: 12px;
+}
+  
+.header {
+    background: #ccc;
+    padding: 20px;
+    text-align: center;
+    font-size: 180%;
+    color: #000;
+    font-family: "Times New Roman", Times, serif;
+
+}
+  
+.sidebar {
+    float: right;
+    font-size: 180%;
+    width: 30%;
+  
+    
+}
+  
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 300px;
+    font-size: 180%;
+    margin-left: auto;
+}
+  
+.footer {
+    clear: right;
+    background: #eee;
+    padding: 20px;
+}
+
+.FrontCard {
+    height: 200px;
+    width: 180px;
+    background-color: orange;
+    margin: 7px;
+    
+}
+
+.BackCard {
+    height: 200px;
+    width: 180px;
+    text-align: center;
+    margin: 7px;
+    font-size: 90px;
+}
+.no-pulsado {
+    background-color: white;
+}
+
+.pulsado-no-acertado {
+    background-color: red;
+}
+
+.pulsado-acertado {
+    background-color: green;
+}
+
+#setBotones {
+    text-align: center;
+    padding: auto;
+}
+button {
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+  
+  font-family: Arial;
+    font-size: 20px;
+    padding: 19px;
+    text-decoration: none;
+  }
+  button:focus {
+    background-color: #4CAF50; /* Green */
+    box-shadow: 2px 3px;
+  }
+.PalabraAdivinadaHastaElMomento {
+    font-size: 40px;
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 180%;
+}
+ul {
+    list-style-type: none;
+}
