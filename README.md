@@ -10,7 +10,7 @@
 - 6 horas de mirar el curso de React para principiantes en Webinars + tiempo adicional si tiene ejercicios de aprendizaje.
 - Tiempo de hacer el proyecto.
 
-- Referencias: https://github.com/rickitan/juego-de-memoria-reactjs
+- Referencias:
 
 https://github.com/sweetalert2/sweetalert2-react-content
 
