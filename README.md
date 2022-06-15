@@ -2,7 +2,7 @@
 - Autor del proyecto: Cristina María Martínez Álvarez.
 - Introducción del proyecto: Quiero hacer una página con javascript y React de juegos educativos (ahorcado, encuentra las parejas...)
 - Finalidad: Permitir jugar juegos educativos en la página creada.
-- Objetivos: Conseguir hacer una página con juegos educativos funcionales, que pueda guardar la puntuación de un usuario mediante un log in.
+- Objetivos: Conseguir hacer una página con juegos educativos funcionales.
 - Medios hardware y software a utilizar: Un ordenador, un navegador web, Visual Studio Code, React.
 - Planificación: 
 - Voy a hacer la página y juegos con React y guardar la puntuación de un usuario con log in por PHP.
