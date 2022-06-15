@@ -5,7 +5,7 @@
 - Objetivos: Conseguir hacer una página con distintos juegos educativos funcionales.
 - Medios hardware y software a utilizar: Un ordenador, un navegador web, Visual Studio Code, React.
 - Planificación: 
-- Voy a hacer la página y juegos con React y guardar la puntuación de un usuario con log in por PHP.
+- Voy a hacer la página y juegos con React.
 - Tiempo necesario:
 - 6 horas de mirar el curso de React para principiantes en Webinars + tiempo adicional si tiene ejercicios de aprendizaje.
 - Tiempo de hacer el proyecto.
