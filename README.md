@@ -15,3 +15,17 @@
 https://github.com/sweetalert2/sweetalert2-react-content
 
 npm install --save sweetalert2 sweetalert2-react-content
+
+https://www.npmjs.com/package/react-card-flip
+
+npm install --save react-card-flip
+
+https://www.npmjs.com/package/lodash.shuffle
+
+npm install --save lodash.shuffle
+
+https://es.reactjs.org/docs/react-dom.html
+
+https://v5.reactrouter.com/web/guides/quick-start
+
+
