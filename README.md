@@ -10,13 +10,9 @@
 - 6 horas de mirar el curso de React para principiantes en Webinars + tiempo adicional si tiene ejercicios de aprendizaje.
 - Tiempo de hacer el proyecto.
 
-<<<<<<< HEAD
-- Referencias: https://github.com/sweetalert2/sweetalert2-react-content
-=======
 - Referencias:
 
 https://github.com/sweetalert2/sweetalert2-react-content
->>>>>>> 5ff8b300e7fb22985b24711be16ebab87e589a8c
 
 npm install --save sweetalert2 sweetalert2-react-content
 
@@ -30,10 +26,5 @@ npm install --save lodash.shuffle
 
 https://es.reactjs.org/docs/react-dom.html
 
-<<<<<<< HEAD
-https://v5.reactrouter.com/web/guides/quick-start
-=======
 https://v5.reactrouter.com/web/guides/quick-start
 
-
->>>>>>> 5ff8b300e7fb22985b24711be16ebab87e589a8c
