@@ -11,9 +11,9 @@ const Categorias = (props) => {
       <div className="sidebar">
         <ul>
         <li><button onClick={() => navigate("/AhorcadoInformatica")}>Informática</button></li>
-        <li><button onClick={() => navigate("/AhorcadoAnimales")}>Animales</button></li>
-        <li><button onClick={() => navigate("/AhorcadoFlores")}>Flores</button></li>
-        <li><button onClick={() => navigate("/AhorcadoPaises")}>Países</button></li>
+        <li><button onClick={() => navigate("/AhorcadoGeografia")}>Geografía</button></li>
+        <li><button onClick={() => navigate("/AhorcadoIngles")}>Inglés</button></li>
+        <li><button onClick={() => navigate("/AhorcadoCiencias")}>Ciencias</button></li>
         </ul>
         </div>
       <div className="content">Elige una categoría:</div>

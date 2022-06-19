@@ -7,9 +7,9 @@ import AppMemory from "./juegos/memoryGame/AppMemory";
 import AppMemoryIntermedio from "./juegos/memoryGame/AppMemoryIntermedio";
 import AppMemoryDificil from "./juegos/memoryGame/AppMemoryDificil";
 import AhorcadoInformatica from "./juegos/ahorcado/AhorcadoInformatica";
-import AhorcadoAnimales from "./juegos/ahorcado/AhorcadoAnimales";
-import AhorcadoFlores from "./juegos/ahorcado/AhorcadoFlores";
-import AhorcadoPaises from "./juegos/ahorcado/AhorcadoPaises";
+import AhorcadoCiencias from "./juegos/ahorcado/AhorcadoCiencias";
+import AhorcadoIngles from "./juegos/ahorcado/AhorcadoIngles";
+import AhorcadoGeografia from "./juegos/ahorcado/AhorcadoGeografia";
 import './css/estiloMG.css';
 function App() {
 
@@ -41,9 +41,9 @@ function App() {
           <Route path="/AppMemoryIntermedio" element={<AppMemoryIntermedio id="2" />}></Route>
           <Route path="/AppMemoryDificil" element={<AppMemoryDificil id="3" />}></Route>
           <Route path="/AhorcadoInformatica" element={<AhorcadoInformatica id="4" />}></Route>
-          <Route path="/AhorcadoAnimales" element={<AhorcadoAnimales id="5" />}></Route>
-          <Route path="/AhorcadoFlores" element={<AhorcadoFlores id="6" />}></Route>
-          <Route path="/AhorcadoPaises" element={<AhorcadoPaises id="7" />}></Route>
+          <Route path="/AhorcadoCiencias" element={<AhorcadoCiencias id="5" />}></Route>
+          <Route path="/AhorcadoIngles" element={<AhorcadoIngles id="6" />}></Route>
+          <Route path="/AhorcadoGeografia" element={<AhorcadoGeografia id="7" />}></Route>
         </Routes>
       </div>
     </Router>

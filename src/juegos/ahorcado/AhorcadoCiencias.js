@@ -44,11 +44,11 @@ class Ahorcado extends Component {
     // Obtenemos el JSON con las palabras del tema elegido. Ejemplo: Animales
 
     // Obtenemos las palabras del JSON externo
-    let palabras = ["MARGARITA", "CAMELIA", "ZINNIA", "CRISANTEMO", "ROSA", 
-    "LOTO", "NENUFAR", "TULIPAN", "ORQUIDEA", "LIRIO", "LILA", "CLAVEL",
-    "CAMPANILLA", "HORTENSIA", "LAVANDA", "NARCISO", "GERANIO", "VIOLETA", 
-    "NOMEOLVIDES", "CEREZO", "MALVA", "COSMOS", "DALIA", "GARDENIA",
-    "LAUREL", "PENSAMIENTO", "LUNARIA", "LIS"];
+    let palabras = ["PICOZAPATO","GATO", "PERRO", "CONEJO", "EUCALIPTO", "OLIVO",
+     "CACTUS", "FICUS", "HURON", "CALABAZA", "ORNITORRINCO", "JACARANDA", "GERANIO", 
+     "MUSGO", "CIENAGA", "ELEFANTE", "BUHO", "LAGO", "CORAL", "ALGA", 
+     "MOCHUELO", "COYOTE", "ELEFANTE", "PETUNIA", "ROSA", "CLAVEL",
+     "GLACIAR", "CORDILLERA", "MARIPOSA", "ABETO", "CASTAÑO", "MURCIELAGO"];
     
     let numAleatorio = Math.floor(Math.random() * palabras.length);
     let palabra = palabras[numAleatorio];

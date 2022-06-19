@@ -44,10 +44,10 @@ class Ahorcado extends Component {
     // Obtenemos el JSON con las palabras del tema elegido. Ejemplo: Animales
 
     // Obtenemos las palabras del JSON externo
-    let palabras = ["KERNEL", "RATON", "TECLADO", "PERIFERICO", "SOFTWARE", "HARDWARE",
-    "INTERNET", "ROUTER", "HACKER", "DISCO", "BIT", "BYTE", "BLOG", "SISTEMA", "CIRCUITO",
-    "CODIGO", "DIGITAL", "DISPOSITIVO", "CUENTA", "ENLACE", "PROGRAMA", "FORO", "LED", 
-    "LASER", "LECTOR", "ESCANER", "IMPRESORA", "FIRMWARE", "MODEM", "NODO", "NAVEGADOR",
+    let palabras = ["RATON", "TECLADO", "MONITOR", "SOFTWARE", "HARDWARE",
+    "INTERNET", "ROUTER", "HACKER", "DISCO", "RAM", "BYTE", "BLOG", "SISTEMA", "CIRCUITO",
+    "CODIGO", "PROCESADOR", "DISPOSITIVO", "CUENTA", "ENLACE", "PROGRAMA", "JOYSTICK", "LED", 
+    "LASER", "LECTOR", "ESCANER", "MICROFONO", "FIRMWARE", "MODEM", "NODO", "AURICULARES",
     "PENDRIVE", "PANTALLA", "PIXEL", "PLACA", "PUERTO", "RED", "SLOT", "SPAM", "BASE",
     "USUARIO", "WIFI", "VIRUS", "VIRTUAL", "ZOCALO"];
     
