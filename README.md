@@ -28,3 +28,5 @@ https://es.reactjs.org/docs/react-dom.html
 
 https://v5.reactrouter.com/web/guides/quick-start
 
+En caso de que los nodos no funcionen:
+https://mega.nz/file/isE2yagA#mv3gB5p9a3Gspgwv7A8DP1Rab-GXmDVnKFOV9T6hmJY
