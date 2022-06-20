@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 19-06-2022 a las 21:30:01
+-- Tiempo de generación: 20-06-2022 a las 02:29:40
 -- Versión del servidor: 10.4.21-MariaDB
 -- Versión de PHP: 8.0.10
 
@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `juego_ahorcado`
 --
+CREATE DATABASE IF NOT EXISTS `juego_ahorcado` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `juego_ahorcado`;
 
 -- --------------------------------------------------------
 
